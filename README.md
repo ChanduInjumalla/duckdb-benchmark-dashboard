@@ -93,6 +93,21 @@ Click **Run Benchmark** from the sidebar to execute the comparison.
 
 ---
 
+## 📊 Benchmark Results
+
+The benchmark was executed on a synthetic dataset with **1 million rows**
+using the same aggregation query for both tools.
+
+| Tool    | Execution Time (seconds) |
+|---------|--------------------------|
+| Pandas  | 1.01                     |
+| DuckDB  | 0.41                     |
+
+**Speedup:** DuckDB performed approximately **2.47× faster** than Pandas
+for this analytical workload.
+
+---
+
 ## 📈 Key Insights
 
 - DuckDB consistently executes aggregation queries faster than Pandas

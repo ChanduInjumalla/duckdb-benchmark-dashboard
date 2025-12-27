@@ -104,7 +104,7 @@ Click **Run Benchmark** from the sidebar to execute the comparison.
 
 ## 🖥️ Dashboard Preview
 
-![Pandas vs DuckDB Benchmark Dashboard](dashboard.png.png)
+![Pandas vs DuckDB Benchmark Dashboard](dashboard_screenshot.png.png)
 
 
 ## 🔁 Reproducibility

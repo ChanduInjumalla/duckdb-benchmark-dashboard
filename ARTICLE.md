@@ -69,21 +69,6 @@ reproduce.
 
 ---
 
-## Dashboard Preview and Code Access
-
-Below is a preview of the interactive Streamlit dashboard generated as part
-of this project.
-
-![Interactive Dashboard Preview](dashboard_screenshot.png.png)
-
-The complete source code, dataset generation script, and instructions to
-reproduce this benchmark are available in the GitHub repository:
-
-🔗 **GitHub Repository:**  
-https://github.com/your-username/duckdb-benchmark-dashboard
-
----
-
 ## Benchmark Results [Code Access](app.py)
 
 The benchmark was executed on a synthetically generated CSV dataset
@@ -102,6 +87,21 @@ On this workload, DuckDB completed the query approximately
 
 The exact execution time may vary slightly depending on system
 configuration, but the relative performance trend remains consistent.
+
+---
+
+## Dashboard Preview and Code Access
+
+Below is a preview of the interactive Streamlit dashboard generated as part
+of this project.
+
+![Interactive Dashboard Preview](dashboard_screenshot.png.png)
+
+The complete source code, dataset generation script, and instructions to
+reproduce this benchmark are available in the GitHub repository:
+
+🔗 **GitHub Repository:**  
+https://github.com/your-username/duckdb-benchmark-dashboard
 
 ---
 
@@ -136,6 +136,7 @@ Choosing the right tool depends on the workload and performance requirements.
 
 All code, dataset generation scripts, and instructions are included in the
 accompanying GitHub repository, allowing anyone to reproduce the benchmark.
+
 
 
 

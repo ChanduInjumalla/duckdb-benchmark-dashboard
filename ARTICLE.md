@@ -101,7 +101,7 @@ The complete source code, dataset generation script, and instructions to
 reproduce this benchmark are available in the GitHub repository:
 
 🔗 **GitHub Repository:**  
-https://github.com/your-username/duckdb-benchmark-dashboard
+https://github.com/ChanduInjumalla/duckdb-benchmark-dashboard)
 
 ---
 
@@ -136,6 +136,7 @@ Choosing the right tool depends on the workload and performance requirements.
 
 All code, dataset generation scripts, and instructions are included in the
 accompanying GitHub repository, allowing anyone to reproduce the benchmark.
+
 
 
 

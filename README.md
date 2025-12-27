@@ -1,8 +1,8 @@
 # Pandas vs DuckDB Benchmark Dashboard
 
 This project benchmarks **Pandas** and **DuckDB** for an analytical aggregation
-query on a large CSV dataset and presents the results through an
-interactive **Streamlit dashboard**.
+query on a large CSV dataset and presents the results through an interactive
+**Streamlit dashboard**.
 
 The objective is to compare real execution performance under identical
 conditions instead of relying on theoretical claims.
@@ -38,3 +38,5 @@ The following aggregation query is used for comparison:
 SELECT country, AVG(salary)
 FROM data
 GROUP BY country;
+
+

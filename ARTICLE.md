@@ -105,7 +105,7 @@ https://github.com/your-username/duckdb-benchmark-dashboard
 
 ---
 
-## Results and Insights [Graph Access](Assets/das)
+## Results and Insights [Benchmark Result](Assets/benchmark_result.png)
 
 In repeated runs, DuckDB consistently executed the aggregation query
 faster than Pandas.
@@ -136,6 +136,7 @@ Choosing the right tool depends on the workload and performance requirements.
 
 All code, dataset generation scripts, and instructions are included in the
 accompanying GitHub repository, allowing anyone to reproduce the benchmark.
+
 
 
 

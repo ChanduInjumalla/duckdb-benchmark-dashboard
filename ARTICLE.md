@@ -84,7 +84,7 @@ https://github.com/your-username/duckdb-benchmark-dashboard
 
 ---
 
-## Benchmark Results
+## Benchmark Results [Code Access](app.py)
 
 The benchmark was executed on a synthetically generated CSV dataset
 containing **1 million rows**.
@@ -136,5 +136,6 @@ Choosing the right tool depends on the workload and performance requirements.
 
 All code, dataset generation scripts, and instructions are included in the
 accompanying GitHub repository, allowing anyone to reproduce the benchmark.
+
 
 

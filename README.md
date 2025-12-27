@@ -119,7 +119,7 @@ for this analytical workload.
 
 ## 🖥️ Dashboard Preview
 
-![Pandas vs DuckDB Benchmark Dashboard](dashboard_screenshot.png.png)
+![Pandas vs DuckDB Benchmark Dashboard](Assets/dashboard_screenshot.png.png)
 
 
 ## 🔁 Reproducibility
